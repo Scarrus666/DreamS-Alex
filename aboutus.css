@@ -1,0 +1,16 @@
+.bg_header
+{
+    background-color: black;
+}
+
+.header_title
+{
+    color: white;
+    text-align: center;
+}
+
+body nav
+{
+    position: sticky;
+    top: 0;
+}
