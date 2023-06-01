@@ -63,6 +63,19 @@ body nav
     flex-direction: column;
   }
 
+  .p_gabriel            
+  {
+    line-height: 0.1;    // zeilenhöhe innerhalb von p-elementen gpr
+    margin-top: 0;         // abstand zwischen p-elementen gpr
+    margin-bottom: 0; 
+    font-size: 0.5em; 
+  }
+
+  h5
+  {
+    font-family: sans-serif;
+  }
+
   p
   {
     font-family: sans-serif;
