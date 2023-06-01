@@ -15,6 +15,7 @@ body nav
     top: 0;
     box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     background-color: black;
+    z-index: 100;
 }
 
 .header_logo
@@ -52,6 +53,7 @@ body nav
     color: white;
     box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     margin-top: auto;
+    z-index: 100;
   }
 
   .body
@@ -59,4 +61,9 @@ body nav
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+  }
+
+  p
+  {
+    font-family: sans-serif;
   }
