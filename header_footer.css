@@ -63,12 +63,12 @@ body nav
     flex-direction: column;
   }
 
-  .p_gabriel            
+  .p_gabriel
   {
     line-height: 0.1;    // zeilenhöhe innerhalb von p-elementen gpr
     margin-top: 0;         // abstand zwischen p-elementen gpr
-    margin-bottom: 0; 
-    font-size: 0.5em; 
+    margin-bottom: 0;
+    font-size: 0.8em;      // schriftgrösse gpr
   }
 
   h5
@@ -79,20 +79,4 @@ body nav
   p
   {
     font-family: sans-serif;
-  }
-
-  h6
-  {
-    text-shadow: 1px 1px;
-  }
-
-  .black_shadow
-  {
-    text-shadow: 1px 1px;
-  }
-
-  .my_images
-  {
-    max-height: 183px;
-    width: auto;
   }
