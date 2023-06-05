@@ -80,3 +80,9 @@ body nav
   {
     font-family: sans-serif;
   }
+
+  .my_images
+  {
+    max-height: 183px;
+    width: auto;
+  }
