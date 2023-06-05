@@ -1,1 +1,1 @@
-05.06.2023 ebankg_gabriel hochgeladen mit bildern, sound, gif, css und js. ich verwende im html und css den kürzel gpr.
+Hier steht text
